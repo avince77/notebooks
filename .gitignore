@@ -99,3 +99,4 @@ ENV/
 .mypy_cache/
 
 gallery/SP_seminar/wordlist-lat-full.txt
+gallery/SP_seminar/wordforms-lat-full.txt
